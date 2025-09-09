@@ -22,4 +22,3 @@ jobs:
 
       - name: Check style
         run: npm run eslint
-e
